@@ -1,5 +1,5 @@
 artKey = userInput(
-  name : "artif",
+  name : "artif12",
   type : "ARTIFACTORY",
   value : "",
   description:"please provide a value"
