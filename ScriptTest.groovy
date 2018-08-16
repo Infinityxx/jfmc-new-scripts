@@ -6,7 +6,7 @@ artKey = userInput(
   )
 
 team = userInput (
-  name :"team",
+  name :"team3213",
   type: "STRING",
   value: "",
   description:"please provide a value"
